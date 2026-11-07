@@ -1,4 +1,14 @@
-## Hi there 👋
+# Halo semua! 👋
+
+Perkenalkan, nama saya **Arbaz Ferdiansah**.<br>
+Saya peserta **Asah 2026 (Dicoding x GoTo)** di learning path **Data Science**.<br>
+Saat ini saya mempelajari Git, SQL, Python, analisis data, dan machine learning.<br>
+
+### Yang sudah saya kerjakan
+- Kontribusi open source pertama: [first-contributions #128014](https://github.com/firstcontributions/first-contributions/pull/128014)
+- Jurnal progres belajar: [pengalaman-belajar](https://github.com/ArbazFerdiansah/pengalaman-belajar)
+
+Mari terhubung lewat [LinkedIn](https://www.linkedin.com/in/arbaz-ferdiansah-15198232b/).
 
 <!--
 **ArbazFerdiansah/ArbazFerdiansah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
